@@ -1,4 +1,3 @@
-// https://www.youtube.com/watch?v=8p76pJsUP44
 #include <Windows.h>
 #include <GL\glew.h>
 #include <GL\freeglut.h>
